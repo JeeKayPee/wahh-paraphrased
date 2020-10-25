@@ -1,8 +1,4 @@
-# WAHH - Paraphrased
-
-> My own paraphrased version of the *"The Web Application Hacker's Handbook"*
-
-## Table of content
+# Table of content
 
 * [Chapter 1 - Web Application (In)security](chapters/chapter-1.md)
 * [Chapter 2 - Core Defense Mechanisms](chapters/chapter-2.md)
